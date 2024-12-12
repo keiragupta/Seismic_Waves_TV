@@ -1,0 +1,9 @@
+﻿Ground material,P wave velocity (m/s),S wave velocity (m/s)
+Granite,5700,2900
+Basalt,6400,3200
+Sandstone,2900,1800
+Limestone,6000,2900
+Sand (sat),1500,600
+Sand (unsat),6000,240
+Clay,1800,700
+Glacial Till (sat),2000,800
